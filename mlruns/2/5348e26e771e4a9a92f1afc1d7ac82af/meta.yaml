@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/workspace/alpha_qlib_proj/mlruns/2/5348e26e771e4a9a92f1afc1d7ac82af/artifacts
+end_time: 1642577505205
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 5348e26e771e4a9a92f1afc1d7ac82af
+run_uuid: 5348e26e771e4a9a92f1afc1d7ac82af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642577462335
+status: 3
+tags: []
+user_id: ubuntu
